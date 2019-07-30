@@ -1,10 +1,17 @@
 # chrome-stylize-custom
 
-## kabahandle が カスタマイズした、chrome アドオン chrome-stylize-custom です。
-
 ## 参考URL
 
 https://hirata.blog/201809_chrome-stylize/
+
+## kabahandle が カスタマイズした、chrome アドオン chrome-stylize-custom です。
+
+Webページをダークモード化するために、カスタマイズしています。
+
+### ダークモードにしたURL
+
+  - https://www.yahoo.co.jp/
+  - https://search.yahoo.co.jp/
 
 ## Chrome拡張としてインストールする方法
 
