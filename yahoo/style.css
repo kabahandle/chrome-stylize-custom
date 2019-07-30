@@ -1,0 +1,22 @@
+@charset "utf-8";
+
+/*
+ * chrome://extensions/
+ */
+
+body, #main, .Topics, #qurioRecommend, #qurireco .item, #yahooservice, #searchbox, 
+#favoriteservice, #companybox, #posfix, #ecrecome, #yjidbox, #yads-trb, #scoreboard,
+#personalbox, .Personalbox__notice, #js-ninjyo, #pbtoday,
+#header, #Sf, .inner.cf, div.bd, span.u, p.cut3{
+  background: #888 !important;
+  color: #efefef !important;
+}
+
+body a, #main a, .Topics a, #qurioRecommend, #qurireco .item a, #yahooservice, #searchbox, 
+#favoriteservice, #companybox, #posfix, #ecrecome, #yjidbox, #yads-trb, #scoreboard,
+#personalbox, .Personalbox__notice, #js-ninjyo, #pbtoday,
+#header #Sf, .inner.cf, div.bd, span.u, p.cut3{
+  color: #efefef !important;
+}
+
+
