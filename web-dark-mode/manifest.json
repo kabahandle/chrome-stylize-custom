@@ -1,6 +1,6 @@
 {
-  "name": "chrome-stylize",
-  "author": "Akira HIRATA",
+  "name": "chrome-stylize - web-dark-mode",
+  "author": "Akira HIRATA modified by kabahandle",
   "description": "chrome extension for customize CSS and JS.",
   "version": "1.0.0",
   "manifest_version": 2,
