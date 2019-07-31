@@ -1,6 +1,6 @@
 # chrome-stylize-custom
 
-## 参考URL（ありがとうございましす。OSZ）
+## 参考URL（ありがとうございます。OSZ）
 
 https://hirata.blog/201809_chrome-stylize/
 
