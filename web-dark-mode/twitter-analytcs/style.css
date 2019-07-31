@@ -4,12 +4,12 @@
  * chrome://extensions/
  */
 
-body, .main-page-header, .SharedNavBar, .tweet-container, .tweet-text {
+body, .main-page-header, .SharedNavBar, .tweet-container, .tweet-text, .tweet-activity-data {
   background: #888 !important;
   color: #efefef !important;
 }
 
-body a, .main-page-header a, .SharedNavBar a, .tweet-container a{
+body a, .main-page-header a, .SharedNavBar a, .tweet-container a, .tweet-activity-data a{
   color: #efefef !important;
 }
 

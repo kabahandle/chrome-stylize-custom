@@ -7,7 +7,7 @@
 body, #main, .Topics, #qurioRecommend, #qurireco .item, #yahooservice, #searchbox, 
 #favoriteservice, #companybox, #posfix, #ecrecome, #yjidbox, #yads-trb, #scoreboard,
 #personalbox, .Personalbox__notice, #js-ninjyo, #pbtoday,
-#header, #Sf, .inner.cf, div.bd, span.u, p.cut3{
+#header, #Sf, .inner.cf, div.bd, span.u, p.cut3, h2, h3, h4, .Tab__item, .Tab__linkWrapper, #announce, #disasterbox, #hdBar, #uhd  {
   background: #888 !important;
   color: #efefef !important;
 }
@@ -15,7 +15,9 @@ body, #main, .Topics, #qurioRecommend, #qurireco .item, #yahooservice, #searchbo
 body a, #main a, .Topics a, #qurioRecommend, #qurireco .item a, #yahooservice, #searchbox, 
 #favoriteservice, #companybox, #posfix, #ecrecome, #yjidbox, #yads-trb, #scoreboard,
 #personalbox, .Personalbox__notice, #js-ninjyo, #pbtoday,
-#header #Sf, .inner.cf, div.bd, span.u, p.cut3{
+#header #Sf, .inner.cf, div.bd, span.u, p.cut3, .Tab__item  a, .Tab__linkWrapper  a, #hdBar a,
+#header, #Sf, .inner.cf, div.bd, span.u, p.cut3, h2, h3, h4, .Tab__item, .Tab__linkWrapper, #announce, #disasterbox, #hdBar, 
+#uhd a{
   color: #efefef !important;
 }
 

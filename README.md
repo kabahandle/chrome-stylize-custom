@@ -1,6 +1,6 @@
 # chrome-stylize-custom
 
-## 参考URL
+## 参考URL（ありがとうございましす。OSZ）
 
 https://hirata.blog/201809_chrome-stylize/
 
@@ -12,7 +12,7 @@ Webページをダークモード化するために、カスタマイズして�
 
   - https://www.yahoo.co.jp/
   - https://search.yahoo.co.jp/
-  - https://analytics.twitter.com
+  - https://analytics.twitter.com/
 
 ## Chrome拡張としてインストールする方法
 
