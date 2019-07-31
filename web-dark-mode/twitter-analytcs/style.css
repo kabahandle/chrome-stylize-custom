@@ -5,8 +5,8 @@
  */
 
 body, .main-page-header, .SharedNavBar, .tweet-container, .tweet-text, .tweet-activity-data, h1, h2, h3, h3 strong {
-  /*background: #888 !important;*/
-  background: #15202b !important;
+  background: #888 !important;
+  /*background: #15202b !important;*/
   color: #efefef !important;
 }
 
