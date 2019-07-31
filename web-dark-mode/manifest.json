@@ -16,6 +16,10 @@
       "css": ["yahoo/style.css"]
     },
     {
+      "matches": ["https://analytics.twitter.com/*"],
+      "css": ["twitter-analytcs/style.css"]
+    },
+    {
       "matches": ["http://www.nicovideo.jp/watch/*"],
       "css": ["nico/style.css"],"js": ["nico/script.js"]
     }

@@ -1,0 +1,22 @@
+@charset "utf-8";
+
+/*
+ * chrome://extensions/
+ */
+
+body, .main-page-header, .SharedNavBar, .tweet-container, .tweet-text {
+  background: #888 !important;
+  color: #efefef !important;
+}
+
+body a, .main-page-header a, .SharedNavBar a, .tweet-container a{
+  color: #efefef !important;
+}
+
+/*
+.tweet-container {
+  background: #888 !important;
+  color: #111 !important;
+}
+*/
+
