@@ -12,6 +12,7 @@ Webページをダークモード化するために、カスタマイズして�
 
   - https://www.yahoo.co.jp/
   - https://search.yahoo.co.jp/
+  - https://analytics.twitter.com
 
 ## Chrome拡張としてインストールする方法
 
