@@ -4,8 +4,13 @@
  * chrome://extensions/
  */
 
-body, #main, .Topics, #qurioRecommend, #qurireco .item, #yahooservice, #searchbox, 
-#favoriteservice, #companybox, #posfix, #ecrecome, #yjidbox, #yads-trb, #scoreboard,
+body, #main, #wrapper, header, header div, section, article, #Masthead, #ToolList, #tabTopics,#tabTopics ul,#tabTopics ul li, #tabTopics ul li a,#Business,#Business ul,#Business ul li, #Business ul li a,
+#Socialresponsibility, #Socialresponsibility ul, #Socialresponsibility ul li, #Socialresponsibility ul li a,
+#Information, #Information ul ,#Information ul li, #Information ul li a,
+#TULT,
+article a, article a div,
+.Topics, #qurioRecommend, #qurireco .item, #yahooservice, #searchbox, 
+#favoriteservice, #companybox, #posfix, #ecrecome, #yjidbox, #yads-trb, #scoreboard,Business
 #personalbox, .Personalbox__notice, #js-ninjyo, #pbtoday,
 #header, #Sf, .inner.cf, div.bd, span.u, p.cut3, h2, h3, h4, .Tab__item, .Tab__linkWrapper, #announce, #disasterbox, #hdBar, #uhd  {
   /*background: #888 !important;*/
